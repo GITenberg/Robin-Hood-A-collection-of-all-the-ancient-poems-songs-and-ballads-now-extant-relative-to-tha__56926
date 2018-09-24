@@ -1,0 +1,43 @@
+_repo: Robin-Hood-A-collection-of-all-the-ancient-poems-songs-and-ballads-now-extant-relative-to-tha__56926
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Buckman, E.
+    gutenberg_agent_id: '49087'
+    url: http://www.gutenberg.org/2009/agents/49087
+  - agent_name: Bewick, Thomas
+    alias: Bewick, T. (Thomas)
+    birthdate: 1753
+    deathdate: 1828
+    gutenberg_agent_id: '33524'
+    url: http://www.gutenberg.org/2009/agents/33524
+  - agent_name: Tourrier, A.H.
+    gutenberg_agent_id: '49086'
+    url: http://www.gutenberg.org/2009/agents/49086
+creator:
+  author:
+    agent_name: Ritson, Joseph
+    alias: Ritson, J. (Joseph)
+    birthdate: 1752
+    deathdate: 1803
+    gutenberg_agent_id: '37114'
+    url: http://www.gutenberg.org/2009/agents/37114
+description: ''
+gutenberg_issued: '2018-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Robin Hood
+
+  A collection of all the ancient poems, songs, and ballads,
+
+  now extant, relative to that celebrated English outlaw.
+
+  To which are prefixed historical anecdotes of his life.'
+url: http://www.gutenberg.org/ebooks/56926
