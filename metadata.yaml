@@ -1,5 +1,5 @@
 _repo: Robin-Hood-A-collection-of-all-the-ancient-poems-songs-and-ballads-now-extant-relative-to-tha__56926
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Buckman, E.
@@ -14,6 +14,9 @@ contributor:
   - agent_name: Tourrier, A.H.
     gutenberg_agent_id: '49086'
     url: http://www.gutenberg.org/2009/agents/49086
+covers:
+- cover_type: archival
+  image_path: 56926-h/images/cover.jpg
 creator:
   author:
     agent_name: Ritson, Joseph
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '37114'
     url: http://www.gutenberg.org/2009/agents/37114
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56926#Robin-Hood-A-collection-of-all-the-ancient-poems-songs-and-ballads-now-extant-relative-to-tha_
 gutenberg_issued: '2018-04-05'
 gutenberg_type: Text
 identifiers:
